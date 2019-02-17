@@ -5,3 +5,6 @@ Creating develop branch
  
  
  Another tag example
+ 
+ __Getting Start__
+ This part is added to example how to use this repository
